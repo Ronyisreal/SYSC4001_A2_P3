@@ -5,7 +5,7 @@
  *
  */
 
-#include<interrupts_TimurGrigoryev_RounakMukherjee.hpp>
+#include<interrupts.hpp>
 
 // Global PID counter
 unsigned int next_pid = 1;
